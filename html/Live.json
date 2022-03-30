@@ -435,7 +435,7 @@
       "date": "2005-10-12",
       "band": "Refuse Boy",
       "venue": "Bannerman’s, Edinburgh",
-      "bill": "Jester Graystar"
+      "bill": "Jester, Graystar"
     },
     {
       "date": "2005-11-03",
@@ -537,7 +537,7 @@
       "date": "2008-03-17",
       "band": "Wildtype",
       "venue": "Henry’s Cellar Bar, Edinburgh",
-      "bill": ""
+      "bill": "Guarana Drought, Soul Doubt"
     },
     {
       "date": "2008-04-09",
@@ -633,7 +633,7 @@
       "date": "2010-09-10",
       "band": "Wildtype",
       "venue": "Banshee Labyrinth, Edinburgh",
-      "bill": ""
+      "bill": "The Psycho Hearts"
     },
     {
       "date": "2010-10-28",
@@ -645,13 +645,13 @@
       "date": "2010-11-05",
       "band": "Wildtype",
       "venue": "Banshee Labyrinth, Edinburgh",
-      "bill": ""
+      "bill": "Slow Mothion Replace, Crowface"
     },
     {
       "date": "2010-12-08",
       "band": "Wildtype",
       "venue": "Henry’s Cellar Bar, Edinburgh",
-      "bill": "Kiltreiser, Katy Bar the Door"
+      "bill": "Kiltreiser, Katy Bar the Door, 19 Folds"
     },
     {
       "date": "2011-01-14",
@@ -693,7 +693,7 @@
       "date": "2011-07-08",
       "band": "Wildtype",
       "venue": "Henry’s Cellar Bar, Edinburgh",
-      "bill": "Ra Durties, Slow Motion Replay, We Ate Them Off The Floor"
+      "bill": "Missing Cat, Slow Motion Replay, We Ate Them Off The Floor, Spat, Jacob Flynch, Ra Durties"
     },
     {
       "date": "2011-09-02",
@@ -741,7 +741,7 @@
       "date": "2012-03-22",
       "band": "Wildtype",
       "venue": "Bannerman’s, Edinburgh",
-      "bill": "Brittle Head Girl, Alphasky"
+      "bill": "Brittle Head Girl, Skyline, Voracity, Alphasky"
     },
     {
       "date": "2012-06-17",
@@ -886,6 +886,66 @@
       "band": "Black Talon",
       "venue": "Opium, Edinburgh",
       "bill": "Certain Death, Kingpin, Tempered"
+    },
+    {
+      "date": "2019-06-22",
+      "band": "Black Talon",
+      "venue": "Bannerman's, Edinburgh",
+      "bill": "Skyryder, Pariah, Ifreann"
+    },
+    {
+      "date": "2019-06-30",
+      "band": "Black Talon",
+      "venue": "Ivory Blacks, Glasgow",
+      "bill": "HXHDRN, Wheelchair Wheelchair Wheelchair Wheelchair, Wardomized"
+    },
+    {
+      "date": "2019-11-23",
+      "band": "Black Talon",
+      "venue": "La Belle Angele, Edinburgh",
+      "bill": "Tempered, Gendo Ikari, Disposable"
+    },
+    {
+      "date": "2019-12-14",
+      "band": "Black Talon",
+      "venue": "Opium, Edinburgh",
+      "bill": "Kingpin, Ifreann, Disposable"
+    },
+    {
+      "date": "2020-02-16",
+      "band": "We Ate Them Off The Floor",
+      "venue": "Bannerman's, Edinburgh",
+      "bill": "Glacier, We Came From The North"
+    },
+    {
+      "date": "2020-03-07",
+      "band": "Black Talon",
+      "venue": "Opium, Edinburgh",
+      "bill": "Afterburn, Beyond Your Design, King Abyss"
+    },
+    {
+      "date": "2021-08-14",
+      "band": "Black Talon",
+      "venue": "Ivory Blacks, Glasgow",
+      "bill": "BELTERFest3 festival, Circle of Tyrants, Tempered, At Their Mercy HXHDRN, Insufferable, BrainBath"
+    },
+    {
+      "date": "2021-10-15",
+      "band": "Black Talon",
+      "venue": "Legends, Edinburgh",
+      "bill": "Iron Altar, Dominicide, Engines of Vengeance"
+    },
+    {
+      "date": "2022-01-29",
+      "band": "Black Talon",
+      "venue": "The Ice Box Arts and Music Centre, Glasgow",
+      "bill": "Thrash Bash II festival, Skellys, Tyrannus, BrainBath, NightFighter, Fatal Collision, Tempered, Disposable"
+    },
+    {
+      "date": "2022-03-05",
+      "band": "Black Talon",
+      "venue": "Legends, Edinburgh",
+      "bill": "King Witch, Under-Volt"
     }
   ]
 }
