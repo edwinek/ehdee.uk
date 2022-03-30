@@ -1,0 +1,23 @@
+.fakeimg {
+  width: 200px;
+}
+
+.release {
+  padding-top: 2em;
+}
+
+.year {
+  padding-top: 1em;
+}
+
+.band {
+  font-style: italic;
+}
+
+.gig {
+  font-weight: bold;
+}
+
+.bill {
+  font-size: small;
+}
